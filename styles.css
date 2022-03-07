@@ -1,0 +1,41 @@
+body{
+    background-color: #d0efff;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+h3{
+    color: #aaaaaa;
+}
+
+.post{
+    margin: 2em;
+    border: 1px solid #000000;
+    padding: 1em;
+}
+
+.add-post{
+    margin: 2em;
+    border: 1px solid #000000;
+    padding: 1em;
+}
+
+#title-section{
+    border: 1px solid #000000;
+    padding: 1em;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.dark-mode {
+    background-color: #303030;
+    color: white;
+}
+
+.dark-title-borders {
+    border: 1px solid white;
+}
+
+.dark-post-borders {
+    border: 1px solid white;
+}
